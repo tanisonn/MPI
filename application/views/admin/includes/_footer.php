@@ -5,7 +5,7 @@
 <!-- /.content-wrapper -->
 <footer class="main-footer">
     <div class="pull-right hidden-xs">
-        <b style="font-weight: 600;">Version</b> 1.8.1
+        <b style="font-weight: 600;">Version</b> 2.0.o
     </div>
     <strong style="font-weight: 600;"><?php echo html_escape($this->settings->copyright); ?></strong>
 </footer>
