@@ -1,4 +1,4 @@
 Modesy - Marketplace & Inventory
-Version 1
+Version 2
 
 By Tanishq,Ananth,Preetham
