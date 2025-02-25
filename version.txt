@@ -2,4 +2,3 @@ Modesy - Marketplace & Inventory
 Version 2
 
 By Tanishq,Ananth,Preetham
-Added by Srini
